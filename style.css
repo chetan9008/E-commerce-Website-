@@ -304,7 +304,7 @@ h6 {
     border-radius: 8px;
     position: relative;
     color: white;
-    background: url(images/banner.jpg) no-repeat center center/cover;
+    background: url(banner.jpg) no-repeat center center/cover;
 }
 
 .banner-text {
